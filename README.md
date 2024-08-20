@@ -3,7 +3,6 @@
   
   ## Outside GitHub
   
-  <a title="Stack Overflow" href="https://pt.stackoverflow.com/users/49861/matheus-franco"><img width="66" alt="Stack Overflow" src="images/stackoverflow.png" /></a>
   <a title="CodePen" href="https://codepen.io/matheusfranco"><img width="66" alt="CodePen" src="images/codepen.png" /></a>
   <a title="Docker Hub" href="https://hub.docker.com/u/matheusmagal"><img width="66" alt="Docker Hub" src="images/docker.png" /></a>
 </div>
